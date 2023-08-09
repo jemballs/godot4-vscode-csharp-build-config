@@ -10,9 +10,9 @@ Launch options:
 
 Required extensions:
 - C#
+  - .Net Install Tool for Extension Authors (Dependency for C# - probably auto-installs)
 - C# Tools for Godot (only required for the Select Scene build config)
-- .Net Install Tool for Extension Authors (Dependency for C# - probably auto-installs)
-- Mono Debug (Dependency for "C# Tools for Godot" - probably auto-installs)
+  - Mono Debug (Dependency for "C# Tools for Godot" - probably auto-installs)
 
 Instructions:
 1. Copy the .vscode folder to your Godot project folder
